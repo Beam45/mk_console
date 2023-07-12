@@ -1,0 +1,4 @@
+# Project exclude paths
+/target/
+/.idea/
+mk_console.iml

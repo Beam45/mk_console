@@ -1,6 +1,6 @@
 [package]
 name = "mk_console"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 description = "Personal library for handling rust console IO."
 license = "MIT"
